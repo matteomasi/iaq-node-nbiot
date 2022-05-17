@@ -16,13 +16,13 @@ NODEID = 'node_01'
 INSTALLATIONID = 'sensor_group_01'
 
 # Measurement interval
-MEAS_INTERVAL = 60         # seconds
+MEAS_INTERVAL = 300         # seconds
 
 # Watchdog timeout 
-WATCHDOG = 120             # seconds
+WATCHDOG = 600             # seconds
 
 # GSM Signal measurement interval
-GSMRSSI_INTERVAL = 1200    # seconds
+GSMRSSI_INTERVAL = 3600    # seconds
 
 
 # GSM MODEM CONFIGURATION
